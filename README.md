@@ -1,16 +1,24 @@
-## Hi there 👋
+# ☁️ Cloud Enthusiast | AWS Projects | Nextwork Learner
 
-<!--
-**Aditya-AG7/Aditya-AG7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Aditya — a student passionate about cloud computing and hands-on learning.
 
-Here are some ideas to get you started:
+Through the **Nextwork program**, I've completed over **20 AWS projects** using services like:
+- 💻 EC2, S3, Lambda, IAM, RDS, VPC
+- 📊 QuickSight for data visualization
+- 💬 Lex + Lambda for chatbot development
+- 🐳 Docker (intro-level deployment)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All projects are documented with screenshots, outputs, errors, and reflections — organized in this repo.
+
+---
+
+## 🔧 What I'm Working On
+- Expanding my AWS portfolio
+- Learning DevOps basics (Git, Docker, monitoring, CI/CD)
+- Applying for internships in cloud and DevOps
+
+---
+
+## 📫 Let’s Connect
+- [LinkedIn](www.linkedin.com/in/aditya-gopal-18559b298)
+- [GitHub Projects Repo](https://github.com/Aditya-AG7/aws-projects-portfolio)
