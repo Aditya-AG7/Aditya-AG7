@@ -4,17 +4,16 @@ Final year CSE undergrad at IIIT Kottayam, building at the
 intersection of backend engineering and cloud infrastructure.
 
 ## What I have built
-<!--
-**Real-time Carnival Point Tracker**
 
-Live leaderboard system for a college event with two-tier 
-role-based admin access and real-time updates via Supabase. 
-Built and deployed under deadline with real users on it 
-during the event.
-Stack: JavaScript, Supabase, Vercel
-Status: Refactoring — fixing security issues, moving logic server-side
+**Adavya Retroverse — Live Point Tracker**
+
+Real-time leaderboard system built for a college carnival event with 
+two-tier role-based admin access, Supabase Auth, and live updates. 
+Built and deployed under deadline with real users during the event. 
+Refactored post-event to replace insecure auth with proper Supabase Auth and RLS policies.
+Stack: React, TypeScript, Supabase, Tailwind, Vercel
 [Repo](https://github.com/Aditya-AG7/adavya-retroverse)
--->
+
 **Carbon Emission Tracking System**
 
 Full-stack web app built solo to track and analyze carbon 
