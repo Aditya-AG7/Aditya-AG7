@@ -4,7 +4,7 @@ Final year CSE undergrad at IIIT Kottayam, building at the
 intersection of backend engineering and cloud infrastructure.
 
 ## What I have built
-
+<!--
 **Real-time Carnival Point Tracker**
 
 Live leaderboard system for a college event with two-tier 
@@ -14,7 +14,7 @@ during the event.
 Stack: JavaScript, Supabase, Vercel
 Status: Refactoring — fixing security issues, moving logic server-side
 [Repo](https://github.com/Aditya-AG7/adavya-retroverse)
-
+-->
 **Carbon Emission Tracking System**
 
 Full-stack web app built solo to track and analyze carbon 
